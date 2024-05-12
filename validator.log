@@ -1,0 +1,96 @@
+May 12 02:58:17.004 INFO All validators active, slot: 9054889, epoch: 282965, total_validators: 4, active_validators: 4, current_epoch_proposers: 1, service: notifier, module: validator_client::notifier:100
+May 12 02:58:23.017 DEBG Published proposer preparation, count: 4, service: preparation, module: validator_client::preparation_service:357
+May 12 02:58:23.018 DEBG Broadcast attestation subscriptions, count: 1, service: duties, module: validator_client::duties_service:731
+May 12 02:58:23.019 DEBG Downloaded proposer duties, num_relevant_duties: 1, dependent_root: 0x3ac2…2892, service: duties, module: validator_client::duties_service:1250
+May 12 02:58:27.007 DEBG No local validators in current sync committee, slot: 9054890, service: sync_committee, module: validator_client::sync_committee_service:171
+May 12 02:58:27.007 DEBG Fetching subscription duties, current_slot: 9054890, duty_slot: 9054890, service: sync_committee, module: validator_client::sync_committee_service:542
+May 12 02:58:27.007 DEBG No sync subscriptions to send, slot: 9054890, service: sync_committee, module: validator_client::sync_committee_service:570
+May 12 02:58:28.726 DEBG Measured BN latency, latency: 0, node: http://localhost:5052/, module: validator_client::latency:41
+May 12 02:58:29.007 INFO Connected to beacon node(s), synced: 1, available: 1, total: 1, service: notifier, module: validator_client::notifier:58
+May 12 02:58:29.007 INFO All validators active, slot: 9054890, epoch: 282965, total_validators: 4, active_validators: 4, current_epoch_proposers: 1, service: notifier, module: validator_client::notifier:100
+May 12 02:58:35.020 DEBG Published proposer preparation, count: 4, service: preparation, module: validator_client::preparation_service:357
+May 12 02:58:35.021 DEBG Downloaded proposer duties, num_relevant_duties: 1, dependent_root: 0x3ac2…2892, service: duties, module: validator_client::duties_service:1250
+May 12 02:58:39.009 DEBG No local validators in current sync committee, slot: 9054891, service: sync_committee, module: validator_client::sync_committee_service:171
+May 12 02:58:39.009 DEBG Fetching subscription duties, current_slot: 9054891, duty_slot: 9054891, service: sync_committee, module: validator_client::sync_committee_service:542
+May 12 02:58:39.009 DEBG No sync subscriptions to send, slot: 9054891, service: sync_committee, module: validator_client::sync_committee_service:570
+May 12 02:58:39.022 INFO Successfully published attestations, type: unaggregated, slot: 9054891, committee_index: 44, head_block: 0x8e27823c5da6712dd2b2b3aaf9d57378acba5bebeee82f24cf03ce33e29020c1, validator_indices: [1080048], count: 1, service: attestation, module: validator_client::attestation_service:457
+May 12 02:58:40.760 DEBG Measured BN latency, latency: 0, node: http://localhost:5052/, module: validator_client::latency:41
+May 12 02:58:41.010 INFO Connected to beacon node(s), synced: 1, available: 1, total: 1, service: notifier, module: validator_client::notifier:58
+May 12 02:58:41.010 INFO All validators active, slot: 9054891, epoch: 282965, total_validators: 4, active_validators: 4, current_epoch_proposers: 1, service: notifier, module: validator_client::notifier:100
+May 12 02:58:47.015 DEBG Published proposer preparation, count: 4, service: preparation, module: validator_client::preparation_service:357
+May 12 02:58:47.018 DEBG Downloaded proposer duties, num_relevant_duties: 1, dependent_root: 0x3ac2…2892, service: duties, module: validator_client::duties_service:1250
+May 12 02:58:51.012 DEBG No local validators in current sync committee, slot: 9054892, service: sync_committee, module: validator_client::sync_committee_service:171
+May 12 02:58:51.012 DEBG Fetching subscription duties, current_slot: 9054892, duty_slot: 9054892, service: sync_committee, module: validator_client::sync_committee_service:542
+May 12 02:58:51.012 DEBG No sync subscriptions to send, slot: 9054892, service: sync_committee, module: validator_client::sync_committee_service:570
+May 12 02:58:52.731 DEBG Measured BN latency, latency: 0, node: http://localhost:5052/, module: validator_client::latency:41
+May 12 02:58:53.012 INFO Connected to beacon node(s), synced: 1, available: 1, total: 1, service: notifier, module: validator_client::notifier:58
+May 12 02:58:53.012 INFO All validators active, slot: 9054892, epoch: 282965, total_validators: 4, active_validators: 4, current_epoch_proposers: 1, service: notifier, module: validator_client::notifier:100
+May 12 02:58:59.017 DEBG Published proposer preparation, count: 4, service: preparation, module: validator_client::preparation_service:357
+May 12 02:58:59.018 DEBG Downloaded proposer duties, num_relevant_duties: 1, dependent_root: 0x3ac2…2892, service: duties, module: validator_client::duties_service:1250
+May 12 02:59:03.014 DEBG No local validators in current sync committee, slot: 9054893, service: sync_committee, module: validator_client::sync_committee_service:171
+May 12 02:59:03.015 DEBG Fetching subscription duties, current_slot: 9054893, duty_slot: 9054893, service: sync_committee, module: validator_client::sync_committee_service:542
+May 12 02:59:03.015 DEBG No sync subscriptions to send, slot: 9054893, service: sync_committee, module: validator_client::sync_committee_service:570
+May 12 02:59:04.749 DEBG Measured BN latency, latency: 0, node: http://localhost:5052/, module: validator_client::latency:41
+May 12 02:59:05.015 INFO Connected to beacon node(s), synced: 1, available: 1, total: 1, service: notifier, module: validator_client::notifier:58
+May 12 02:59:05.015 INFO All validators active, slot: 9054893, epoch: 282965, total_validators: 4, active_validators: 4, current_epoch_proposers: 1, service: notifier, module: validator_client::notifier:100
+May 12 02:59:11.013 DEBG Broadcast attestation subscriptions, count: 1, service: duties, module: validator_client::duties_service:731
+May 12 02:59:11.013 DEBG Published proposer preparation, count: 4, service: preparation, module: validator_client::preparation_service:357
+May 12 02:59:11.014 DEBG Downloaded proposer duties, num_relevant_duties: 1, dependent_root: 0x3ac2…2892, service: duties, module: validator_client::duties_service:1250
+May 12 02:59:15.017 DEBG No local validators in current sync committee, slot: 9054894, service: sync_committee, module: validator_client::sync_committee_service:171
+May 12 02:59:15.017 DEBG Fetching subscription duties, current_slot: 9054894, duty_slot: 9054894, service: sync_committee, module: validator_client::sync_committee_service:542
+May 12 02:59:15.017 DEBG No sync subscriptions to send, slot: 9054894, service: sync_committee, module: validator_client::sync_committee_service:570
+May 12 02:59:16.736 DEBG Measured BN latency, latency: 0, node: http://localhost:5052/, module: validator_client::latency:41
+May 12 02:59:17.002 INFO Connected to beacon node(s), synced: 1, available: 1, total: 1, service: notifier, module: validator_client::notifier:58
+May 12 02:59:17.002 INFO All validators active, slot: 9054894, epoch: 282965, total_validators: 4, active_validators: 4, current_epoch_proposers: 1, service: notifier, module: validator_client::notifier:100
+May 12 02:59:23.003 INFO Requesting unsigned block, slot: 9054895, service: block, module: validator_client::block_service:675
+May 12 02:59:23.014 DEBG Published proposer preparation, count: 4, service: preparation, module: validator_client::preparation_service:357
+May 12 02:59:23.016 DEBG Downloaded proposer duties, num_relevant_duties: 1, dependent_root: 0x3ac2…2892, service: duties, module: validator_client::duties_service:1250
+May 12 02:59:24.169 INFO Received unsigned block, slot: 9054895, service: block, module: validator_client::block_service:836
+May 12 02:59:24.180 INFO Publishing signed block, signing_time_ms: 11, slot: 9054895, service: block, module: validator_client::block_service:481
+May 12 02:59:24.420 INFO Successfully published block, slot: 9054895, graffiti: Some("JC-Lab sent me here"), attestations: 87, deposits: 0, block_type: Blinded, service: block, module: validator_client::block_service:504
+May 12 02:59:27.006 DEBG No local validators in current sync committee, slot: 9054895, service: sync_committee, module: validator_client::sync_committee_service:171
+May 12 02:59:27.006 DEBG Fetching subscription duties, current_slot: 9054895, duty_slot: 9054895, service: sync_committee, module: validator_client::sync_committee_service:542
+May 12 02:59:27.006 DEBG No sync subscriptions to send, slot: 9054895, service: sync_committee, module: validator_client::sync_committee_service:570
+May 12 02:59:28.757 DEBG Measured BN latency, latency: 0, node: http://localhost:5052/, module: validator_client::latency:41
+May 12 02:59:29.007 INFO Connected to beacon node(s), synced: 1, available: 1, total: 1, service: notifier, module: validator_client::notifier:58
+May 12 02:59:29.007 INFO All validators active, slot: 9054895, epoch: 282965, total_validators: 4, active_validators: 4, current_epoch_proposers: 1, service: notifier, module: validator_client::notifier:100
+May 12 02:59:35.019 DEBG Published proposer preparation, count: 4, service: preparation, module: validator_client::preparation_service:357
+May 12 02:59:35.020 DEBG Broadcast attestation subscriptions, count: 1, service: duties, module: validator_client::duties_service:731
+May 12 02:59:35.020 DEBG Downloaded proposer duties, num_relevant_duties: 1, dependent_root: 0x3ac2…2892, service: duties, module: validator_client::duties_service:1250
+May 12 02:59:39.009 DEBG No local validators in current sync committee, slot: 9054896, service: sync_committee, module: validator_client::sync_committee_service:171
+May 12 02:59:39.009 DEBG Fetching subscription duties, current_slot: 9054896, duty_slot: 9054896, service: sync_committee, module: validator_client::sync_committee_service:542
+May 12 02:59:39.009 DEBG No sync subscriptions to send, slot: 9054896, service: sync_committee, module: validator_client::sync_committee_service:570
+May 12 02:59:40.728 DEBG Measured BN latency, latency: 0, node: http://localhost:5052/, module: validator_client::latency:41
+May 12 02:59:41.009 INFO Connected to beacon node(s), synced: 1, available: 1, total: 1, service: notifier, module: validator_client::notifier:58
+May 12 02:59:41.009 INFO All validators active, slot: 9054896, epoch: 282965, total_validators: 4, active_validators: 4, current_epoch_proposers: 1, service: notifier, module: validator_client::notifier:100
+May 12 02:59:47.011 DEBG Computed attestation selection proofs, time_taken_ms: 0, lookahead_slot: 9054905, batch_size: 1, service: duties, module: validator_client::duties_service:1146
+May 12 02:59:47.013 DEBG Published proposer preparation, count: 4, service: preparation, module: validator_client::preparation_service:357
+May 12 02:59:47.013 DEBG Broadcast attestation subscriptions, count: 1, service: duties, module: validator_client::duties_service:731
+May 12 02:59:47.014 DEBG Downloaded proposer duties, num_relevant_duties: 1, dependent_root: 0x3ac2…2892, service: duties, module: validator_client::duties_service:1250
+May 12 02:59:51.012 DEBG No local validators in current sync committee, slot: 9054897, service: sync_committee, module: validator_client::sync_committee_service:171
+May 12 02:59:51.012 DEBG Fetching subscription duties, current_slot: 9054897, duty_slot: 9054897, service: sync_committee, module: validator_client::sync_committee_service:542
+May 12 02:59:51.012 DEBG No sync subscriptions to send, slot: 9054897, service: sync_committee, module: validator_client::sync_committee_service:570
+May 12 02:59:52.762 DEBG Measured BN latency, latency: 0, node: http://localhost:5052/, module: validator_client::latency:41
+May 12 02:59:53.012 INFO Connected to beacon node(s), synced: 1, available: 1, total: 1, service: notifier, module: validator_client::notifier:58
+May 12 02:59:53.012 INFO All validators active, slot: 9054897, epoch: 282965, total_validators: 4, active_validators: 4, current_epoch_proposers: 1, service: notifier, module: validator_client::notifier:100
+May 12 02:59:59.021 DEBG Published proposer preparation, count: 4, service: preparation, module: validator_client::preparation_service:357
+May 12 02:59:59.022 DEBG Broadcast attestation subscriptions, count: 2, service: duties, module: validator_client::duties_service:731
+May 12 02:59:59.023 DEBG Downloaded proposer duties, num_relevant_duties: 1, dependent_root: 0x3ac2…2892, service: duties, module: validator_client::duties_service:1250
+May 12 03:00:03.014 DEBG No local validators in current sync committee, slot: 9054898, service: sync_committee, module: validator_client::sync_committee_service:171
+May 12 03:00:03.014 DEBG Fetching subscription duties, current_slot: 9054898, duty_slot: 9054898, service: sync_committee, module: validator_client::sync_committee_service:542
+May 12 03:00:03.014 DEBG No sync subscriptions to send, slot: 9054898, service: sync_committee, module: validator_client::sync_committee_service:570
+May 12 03:00:04.734 DEBG Measured BN latency, latency: 0, node: http://localhost:5052/, module: validator_client::latency:41
+May 12 03:00:05.015 INFO Connected to beacon node(s), synced: 1, available: 1, total: 1, service: notifier, module: validator_client::notifier:58
+May 12 03:00:05.015 INFO All validators active, slot: 9054898, epoch: 282965, total_validators: 4, active_validators: 4, current_epoch_proposers: 1, service: notifier, module: validator_client::notifier:100
+May 12 03:00:11.028 DEBG Published proposer preparation, count: 4, service: preparation, module: validator_client::preparation_service:357
+May 12 03:00:11.028 DEBG Downloaded proposer duties, num_relevant_duties: 1, dependent_root: 0x3ac2…2892, service: duties, module: validator_client::duties_service:1250
+May 12 03:00:11.028 DEBG Broadcast attestation subscriptions, count: 1, service: duties, module: validator_client::duties_service:731
+May 12 03:00:15.017 DEBG No local validators in current sync committee, slot: 9054899, service: sync_committee, module: validator_client::sync_committee_service:171
+May 12 03:00:15.017 DEBG Fetching subscription duties, current_slot: 9054899, duty_slot: 9054899, service: sync_committee, module: validator_client::sync_committee_service:542
+May 12 03:00:15.017 DEBG No sync subscriptions to send, slot: 9054899, service: sync_committee, module: validator_client::sync_committee_service:570
+May 12 03:00:16.752 DEBG Measured BN latency, latency: 0, node: http://localhost:5052/, module: validator_client::latency:41
+May 12 03:00:17.002 INFO Connected to beacon node(s), synced: 1, available: 1, total: 1, service: notifier, module: validator_client::notifier:58
+May 12 03:00:17.002 INFO All validators active, slot: 9054899, epoch: 282965, total_validators: 4, active_validators: 4, current_epoch_proposers: 1, service: notifier, module: validator_client::notifier:100
+May 12 03:00:23.014 DEBG Published proposer preparation, count: 4, service: preparation, module: validator_client::preparation_service:357
+May 12 03:00:23.015 DEBG Broadcast attestation subscriptions, count: 1, service: duties, module: validator_client::duties_service:731
+May 12 03:00:23.017 DEBG Downloaded proposer duties, num_relevant_duties: 1, dependent_root: 0x3ac2…2892, service: duties, module: validator_client::duties_service:1250
